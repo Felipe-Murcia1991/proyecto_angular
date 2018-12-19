@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "ds121589.mlab.com:21589/api_cor",
+    "port": 21589,
+    "url": "mongodb://Usuario:admin1234@ds121589.mlab.com:21589/api_cor",
+    "database": "api_cor",
+    "password": "admin1234",
+    "name": "db",
+    "user": "Usuario",
+    "connector": "mongodb"
+  }
+}
